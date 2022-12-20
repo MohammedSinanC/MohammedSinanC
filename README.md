@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedSinanC
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Oracle Sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MohammedSinanC
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Oracle Sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sinanruzz9@gmail.com
 
 <!---
 MohammedSinanC/MohammedSinanC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

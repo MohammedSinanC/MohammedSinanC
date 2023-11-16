@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedSinanC
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Oracle Sql
+- 🌱 I’m currently learning Angular Js
 - 📫 How to reach me sinanruzz9@gmail.com
 
 <!---
